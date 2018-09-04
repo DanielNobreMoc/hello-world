@@ -1,2 +1,6 @@
 # hello-world
-Project school
+
+Testing!
+
+Hi guys!
+I'm learning about Github!
